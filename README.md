@@ -1,10 +1,10 @@
 <div align="center">
 
   ## 👨‍💻 About Me
-  
-  🔭 Currently focused on: FullStack (Frontend ⚡ + Backend 💾 + DevOps ⚙️)
-  💻 Love building clean, scalable, production-ready apps
-  📖 Always diving into docs like it’s my daily newspaper 📰
+
+  - 🔭 Currently focused on: FullStack (Frontend ⚡ + Backend 💾 + DevOps ⚙️)
+  - 💻 Love building clean, scalable, production-ready apps
+  - 📖 Always diving into docs like it’s my daily newspaper 📰
   ---
   
   ## 🛠️ Tech Stack
