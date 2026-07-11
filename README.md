@@ -2,9 +2,9 @@
 
   ## 👨‍💻 About Me
 
-  - 🔭 Currently focused on: FullStack (Frontend ⚡ + Backend 💾 + DevOps ⚙️)
-  - 💻 Love building clean, scalable, production-ready apps
-  - 📖 Always diving into docs like it’s my daily newspaper 📰
+  <div>🔭 Currently focused on: FullStack (Frontend ⚡ + Backend 💾 + DevOps ⚙️)</div>
+  <div>💻 Love building clean, scalable, production-ready apps</div>
+  <div>📖 Always diving into docs like it’s my daily newspaper 📰</div>
   ---
   
   ## 🛠️ Tech Stack
